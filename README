@@ -1,0 +1,1 @@
+Re-build of a tumblr site that was slow to load beacuse of multiple youtube videos.  Made new responsive site based on old tumblr color and style but with video thumbnails instead of actual video embeds.  Used fancy box jquery plug in to make lightbox stlye video display.
