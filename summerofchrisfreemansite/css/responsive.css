@@ -1,0 +1,51 @@
+@media screen and (min-width: 480px) {
+
+.june {
+	float:left;
+	width:23.3333%;
+	margin:5%;
+
+	
+}
+.july {
+	float:left;
+    width:23.3333%;
+    margin:5%;
+
+
+}
+.august{
+	float:left;
+	width:23.3333%;
+	margin:5%;
+}
+
+
+
+header h1 {
+	font-size:2.5em;
+}
+
+header h2 {
+	font-size:1em;
+}
+
+#gallery li a p {
+  font-size: 50%;
+}
+
+}
+
+
+
+
+@media screen and (min-width: 660px) {
+
+
+
+#gallery li a p {
+  font-size: 75%;
+}
+
+
+}
